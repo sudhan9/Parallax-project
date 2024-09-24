@@ -30,13 +30,13 @@ body{
 /* imp! HEADER CSS */
 
 header{
-    position:absolute
+    position:absolute;
     top: 0;
     left: 0;
     width: 100%;
     display: flex;
     align-items: center;
-    z-index: 10;
+    z-index: 100;
     padding: 30px 100px;
 }
 
